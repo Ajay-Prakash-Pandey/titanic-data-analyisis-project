@@ -1,0 +1,1 @@
+Analyzed the Titanic dataset to explore and understand factors affecting passenger survival. This project uses Python, Pandas, NumPy, Matplotlib, and Seaborn to perform data cleaning, exploratory data analysis (EDA), and visualization.
